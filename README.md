@@ -2,7 +2,10 @@
 - 🌱 CityU Computer Science 
 
 * My Current Project
-  * https://minniewy.github.io/WebProject/html/
+  * Personal Blog 
+    * https://minniewy.github.io/WebProject/html/
+  * Mirowave (JAVA)
+    * https://github.com/MinnieWY/Mircrowave
 
 <!---
 MinnieWY/MinnieWY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
