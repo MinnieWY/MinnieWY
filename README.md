@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MinnieWY
 - 🌱 CityU Computer Science 
-- Google Developer Profile
-  - https://developers.google.com/profile/u/104547827132008908151?authuser=1&hl=en 
+- [Google Developer Profile](https://developers.google.com/profile/u/104547827132008908151?authuser=1&hl=en)
+- [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/minniewy-7838/)
 
 * My Current Project
   * Final Year Project: A Mobile-based Health Tracker Application with Fitbit
