@@ -7,7 +7,8 @@
    * [React Native-based Frontend](https://github.com/MinnieWY/Android-Health-Tracker-Frontend.git)
    * [Spring Boot-based Backend](https://github.com/MinnieWY/Android-Health-Tracker-Backend.git)
    * [Flask-based Machine Learning Web API](https://github.com/MinnieWY/Android-Health-Tracker-Machine-Learning)
-
+  * Past Project
+    * [Python Marks Calculation](https://github.com/MinnieWY/MarksCalulationForOrignteering)
 <!---
 MinnieWY/MinnieWY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
